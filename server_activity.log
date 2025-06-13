@@ -1,0 +1,5 @@
+INFO: Server started
+INFO: Listening on port 8080
+WARNING: High memory usage
+ERROR: Connection timeout
+INFO: Server shutdown scheduled
